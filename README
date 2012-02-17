@@ -1,0 +1,30 @@
+Ave
+===
+
+Ave is a programming language based on functional combinators.
+
+Like concatenative languages, Ave tries to simplify syntax by having function
+composition (instead of application) as the basic language construct. That 
+means that in Ave everything is a function made of other functions,
+allowing to create program without variables (as to reduce state)
+in a point-free style.
+
+== Roadmap.
+
+Ave is on its very early days.
+
+Each Ave release will have a bird name in the spirit of those found on the book: 
+[To Mock a Mockingbird and Other Logic Puzzles: Including an Amazing Adventure
+on Combinatory Logic | http://en.wikipedia.org/wiki/To_Mock_a_Mockingbird]
+
+The first prototype is codenamed Krazy Kiwi, being implemented in Ruby and
+targeting the Rubinius VM.
+
+
+== Mocking birds.
+
+Ave (Bird in spanish) is inspired on an article on functional
+combinators: http://dkeenan.com/Lambda/
+
+[To Mock a Mockingbird and Other Logic Puzzles: Including an Amazing Adventure
+on Combinatory Logic | http://en.wikipedia.org/wiki/To_Mock_a_Mockingbird]
